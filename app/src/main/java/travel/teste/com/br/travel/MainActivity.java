@@ -38,7 +38,7 @@ import java.util.List;
 public class MainActivity extends ActionBarActivity {
 
 
-    public static final String URL = "http://demo4955212.mockable.io/viajabessa";
+    public static final String URL = "http://private-d4068-viajabessa26.apiary-mock.com/pacotes";
 
     private ListView mListView;
     private CustomAdapter mAdapter,mAdapter1 ;
