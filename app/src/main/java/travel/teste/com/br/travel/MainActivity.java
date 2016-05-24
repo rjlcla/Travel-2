@@ -118,6 +118,8 @@ public class MainActivity extends ActionBarActivity {
                     }
                 }else {
                     Log.e("Json", "Erro durante o download do arquivo");
+
+                    // teste de git
                 }
 
             } catch (ClientProtocolException e) {
